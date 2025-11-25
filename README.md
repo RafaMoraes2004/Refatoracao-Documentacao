@@ -1,4 +1,4 @@
-#Observação
+# Observação
 Apesar de haver realizado documentação também da classe TesteCalculadora.java, ela não consta inteira na pasta DOCS, onde há o index para conferir a documentação. 
 Embaixo imagem da documentação da classe TesteCalculadora.
 
